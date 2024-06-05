@@ -1,0 +1,16 @@
+
+footer {
+    border: 5px solid black;
+}
+header {
+    background-color: black;
+    color: white;
+}
+
+div{
+    width:100%;
+}
+
+main {
+    display: flex;
+}
