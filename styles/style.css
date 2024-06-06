@@ -1,16 +1,21 @@
 
-footer {
-    border: 5px solid black;
+c {
+    display: flex;
+    flex-direction: column;
 }
 header {
     background-color: black;
     color: white;
+    border: 5px solid yellow
 }
 
 div{
     width:100%;
+    border: 5px solid black
+    
 }
 
 main {
     display: flex;
+    
 }
