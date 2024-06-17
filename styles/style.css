@@ -1,7 +1,11 @@
-
+a {
+    border: 2px solid black;
+}
 c {
     display: flex;
+    justify-content: space-evenly;
     flex-direction: column;
+    
 }
 header {
     background-color: black;
